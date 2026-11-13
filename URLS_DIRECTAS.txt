@@ -1,0 +1,28 @@
+URLs directas estables (raw.githubusercontent.com, HTTP 200, application/octet-stream, sin caducar en minutos):
+
+IA al Alcance
+titulo: 2026 El pez que mira desde dentro del cráneo
+archivo: ia_macropinna.mp4
+duracion_segundos: 167.72
+voz: es-MX-DaliaNeural
+categoryId: 15
+url: https://raw.githubusercontent.com/graciasdios9999-prog/buffer-videos-20261113/main/ia_macropinna.mp4
+
+Refugio en la Palabra
+titulo: 2026 Quien busca a Dios no vuelve vacío
+archivo: refugio_busca.mp4
+duracion_segundos: 143.32
+voz: es-MX-JorgeNeural
+categoryId: 27
+url: https://raw.githubusercontent.com/graciasdios9999-prog/buffer-videos-20261113/main/refugio_busca.mp4
+
+Cuerpo / Instagram
+pendiente de render si no está en el repo como cuerpo_hipo.mp4
+titulo previsto: 2026 Tu hipo no es un chiste del cuerpo
+voz: es-CO-SalomeNeural
+categoryId: 27
+
+Tag Amazon confirmado en Drive (2026-11-01-va_etiqueta.txt): michelgonza02-20
+Descripciones: descripciones.txt en este mismo folder y en el repo.
+NO publicar en Buffer antes de 2026-11-20T21:10:00-06:00. Retry-After 656260s desde 2026-11-13T06:10:00-06:00, vence 2026-11-20T20:57:40-06:00.
+buffer___get_account falló con 429. Organización desconocida. No hay post ids.
